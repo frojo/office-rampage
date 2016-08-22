@@ -12,5 +12,6 @@ link_directories("/usr/local/lib/")
 
 add_executable(gltest gltest.cpp)
 target_link_libraries(gltest libglfw3.dylib)
+target_link_libraries(gltest libglew.dylib)
 
 
