@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/gltest.dir/gltest.cpp.o"
+  "CMakeFiles/gltest.dir/load_shaders.cpp.o"
   "gltest.pdb"
   "gltest"
 )

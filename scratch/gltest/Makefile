@@ -150,6 +150,33 @@ gltest.cpp.s:
 	$(MAKE) -f CMakeFiles/gltest.dir/build.make CMakeFiles/gltest.dir/gltest.cpp.s
 .PHONY : gltest.cpp.s
 
+load_shaders.o: load_shaders.cpp.o
+
+.PHONY : load_shaders.o
+
+# target to build an object file
+load_shaders.cpp.o:
+	$(MAKE) -f CMakeFiles/gltest.dir/build.make CMakeFiles/gltest.dir/load_shaders.cpp.o
+.PHONY : load_shaders.cpp.o
+
+load_shaders.i: load_shaders.cpp.i
+
+.PHONY : load_shaders.i
+
+# target to preprocess a source file
+load_shaders.cpp.i:
+	$(MAKE) -f CMakeFiles/gltest.dir/build.make CMakeFiles/gltest.dir/load_shaders.cpp.i
+.PHONY : load_shaders.cpp.i
+
+load_shaders.s: load_shaders.cpp.s
+
+.PHONY : load_shaders.s
+
+# target to generate assembly for a file
+load_shaders.cpp.s:
+	$(MAKE) -f CMakeFiles/gltest.dir/build.make CMakeFiles/gltest.dir/load_shaders.cpp.s
+.PHONY : load_shaders.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... gltest.o"
 	@echo "... gltest.i"
 	@echo "... gltest.s"
+	@echo "... load_shaders.o"
+	@echo "... load_shaders.i"
+	@echo "... load_shaders.s"
 .PHONY : help
 
 

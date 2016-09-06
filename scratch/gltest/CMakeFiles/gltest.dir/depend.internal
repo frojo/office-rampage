@@ -3,6 +3,7 @@
 
 CMakeFiles/gltest.dir/gltest.cpp.o
  /Users/mojoz0/Desktop/games/office-rampage/scratch/gltest/gltest.cpp
+ /Users/mojoz0/Desktop/games/office-rampage/scratch/gltest/load_shaders.hpp
  /usr/local/include/GL/glew.h
  /usr/local/include/GLFW/glfw3.h
  /usr/local/include/glm/common.hpp
@@ -67,6 +68,12 @@ CMakeFiles/gltest.dir/gltest.cpp.o
  /usr/local/include/glm/fwd.hpp
  /usr/local/include/glm/geometric.hpp
  /usr/local/include/glm/glm.hpp
+ /usr/local/include/glm/gtc/constants.hpp
+ /usr/local/include/glm/gtc/constants.inl
+ /usr/local/include/glm/gtc/matrix_transform.hpp
+ /usr/local/include/glm/gtc/matrix_transform.inl
+ /usr/local/include/glm/gtx/transform.hpp
+ /usr/local/include/glm/gtx/transform.inl
  /usr/local/include/glm/integer.hpp
  /usr/local/include/glm/mat2x2.hpp
  /usr/local/include/glm/mat2x3.hpp
@@ -84,3 +91,6 @@ CMakeFiles/gltest.dir/gltest.cpp.o
  /usr/local/include/glm/vec3.hpp
  /usr/local/include/glm/vec4.hpp
  /usr/local/include/glm/vector_relational.hpp
+CMakeFiles/gltest.dir/load_shaders.cpp.o
+ /Users/mojoz0/Desktop/games/office-rampage/scratch/gltest/load_shaders.cpp
+ /usr/local/include/GL/glew.h

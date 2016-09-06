@@ -6,5 +6,5 @@ CXX_FLAGS =  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacO
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/local/Cellar -I/usr/local/include -I/Users/mojoz0/Desktop/games/office-rampage/scratch/gltest 
+CXX_INCLUDES = -I/usr/local/include 
 
